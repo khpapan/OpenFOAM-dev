@@ -106,7 +106,7 @@ export WM_OSTYPE=POSIX
 export SCOTCH_TYPE=system
 export METIS_TYPE=none
 export PARMETIS_TYPE=ThirdParty
-export ZOLTAN_TYPE=system
+export ZOLTAN_TYPE=ThirdParty
 
 #    ParaView_TYPE = none | system | paraviewopenfoam | ThirdParty (OpenFOAM)
 export ParaView_TYPE=none
